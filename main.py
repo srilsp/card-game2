@@ -37,3 +37,4 @@ for loops in range(0, 5):
 
 print("Total points value of the card in the hand are:", points_value)
 
+#Program ended
